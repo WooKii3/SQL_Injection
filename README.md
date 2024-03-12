@@ -1,1 +1,1 @@
-# SQL_Injection
+# 실습목적의 SQL_Injection 자동화 
